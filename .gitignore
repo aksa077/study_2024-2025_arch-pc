@@ -1,0 +1,15 @@
+# Игнорирование системных файлов
+.DS_Store
+.Trash/
+.zshrc
+.zprofile
+.zsh_history
+
+# Игнорирование пользовательских папок
+Desktop/
+Documents/
+Downloads/
+Movies/
+Music/
+Pictures/
+Public/
